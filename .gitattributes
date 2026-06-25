@@ -1,0 +1,5 @@
+# Templates
+*.layout          text
+
+# Reclassify .layout files as JSON:
+*.webc linguist-language=JSON
